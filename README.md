@@ -1,4 +1,4 @@
-# Eagle Locksmith – Website Revamp
+# PinasMura PH – fictional eCommerce for Philippine-made items
 
 ![Project Banner](frontend/public/images/github/banner.webp)
 
