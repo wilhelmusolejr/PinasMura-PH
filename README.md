@@ -8,7 +8,7 @@ PinasMura is a eCommerce platform that specializes in selling various Philippine
 
 The platform offers a complete shopping experience with features such as product browsing, adding items to the cart, checking out, and managing orders. It also includes user account functionalities like registration and login to keep track of orders and preferences.
 
-🔗 **Live Demo:** <a href="https://coursematch.vercel.app/" target="_blank">https://coursematch.vercel.app</a>
+🔗 **Live Demo:** <a href="https://pinas-mura.vercel.app/" target="_blank">https://pinas-mura.vercel.app</a>
 
 ---
 
